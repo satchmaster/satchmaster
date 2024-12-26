@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Certification Badge]([URL_to_your_badge_image](https://www.credly.com/badges/e18bbc46-9073-48aa-bf37-79e4594ce61d))
+
 <!--
 **satchmaster/satchmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
