@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there Developers and DevSecOps 👋
 
 ![Certification Badge](https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)
+
+![Certification Badge](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
 
 🔭 I’m currently working on Github Exam Certifications 
 <!--
